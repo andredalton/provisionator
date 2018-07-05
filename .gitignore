@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Removendo diretório de configuração do pycharm
+.idea
+
+
+
 # C extensions
 *.so
 
